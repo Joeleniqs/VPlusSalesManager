@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\PROJECTS\WEB\MVC\NEW_LOCAL\VPlusSalesManager\Cloud\Published</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Areas/ExpenseCloud/Views/web.config">
+      <publishTime>03/19/2018 17:27:30</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/HelpPage.css">
+      <publishTime>01/10/2018 18:43:05</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/Api.cshtml">
+      <publishTime>07/02/2018 12:05:06</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml">
+      <publishTime>07/02/2018 12:05:06</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml">
+      <publishTime>07/02/2018 12:05:06</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml">
+      <publishTime>07/02/2018 12:05:07</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml">
+      <publishTime>07/02/2018 12:05:07</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml">
+      <publishTime>07/02/2018 12:05:07</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml">
+      <publishTime>07/02/2018 12:05:07</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml">
+      <publishTime>07/02/2018 12:05:07</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml">
+      <publishTime>07/02/2018 12:05:07</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml">
+      <publishTime>07/02/2018 12:05:07</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml">
+      <publishTime>07/02/2018 12:05:07</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml">
+      <publishTime>07/02/2018 12:05:07</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml">
+      <publishTime>01/10/2018 18:43:04</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml">
+      <publishTime>07/02/2018 12:05:07</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml">
+      <publishTime>07/02/2018 12:05:07</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/Index.cshtml">
+      <publishTime>07/02/2018 12:05:07</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/ResourceModel.cshtml">
+      <publishTime>07/02/2018 12:05:07</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Shared/_Layout.cshtml">
+      <publishTime>01/10/2018 18:43:04</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Web.config">
+      <publishTime>01/10/2018 18:43:04</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/_ViewStart.cshtml">
+      <publishTime>01/10/2018 18:42:45</publishTime>
+    </File>
+    <File Include="Areas/TestEngineCloud/Views/web.config">
+      <publishTime>05/28/2018 09:41:31</publishTime>
+    </File>
+    <File Include="Areas/VPlusCloud/Views/web.config">
+      <publishTime>07/02/2018 12:05:07</publishTime>
+    </File>
+    <File Include="Areas/XpertCloud/Views/web.config">
+      <publishTime>02/22/2018 15:05:44</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>01/10/2018 18:43:06</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>01/10/2018 18:43:06</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>10/23/2017 13:15:18</publishTime>
+    </File>
+    <File Include="bin/ExpenseManager.APIObjects.dll">
+      <publishTime>03/20/2018 09:25:15</publishTime>
+    </File>
+    <File Include="bin/ExpenseManager.APIObjects.dll.config">
+      <publishTime>03/17/2018 18:35:16</publishTime>
+    </File>
+    <File Include="bin/ExpenseManager.APIObjects.pdb">
+      <publishTime>03/20/2018 09:25:15</publishTime>
+    </File>
+    <File Include="bin/ExpenseManager.Business.dll">
+      <publishTime>03/20/2018 09:25:16</publishTime>
+    </File>
+    <File Include="bin/ExpenseManager.Business.dll.config">
+      <publishTime>03/17/2018 18:20:32</publishTime>
+    </File>
+    <File Include="bin/ExpenseManager.Business.pdb">
+      <publishTime>03/20/2018 09:25:16</publishTime>
+    </File>
+    <File Include="bin/ExpenseManager.BusinessObject.dll">
+      <publishTime>03/20/2018 09:25:14</publishTime>
+    </File>
+    <File Include="bin/ExpenseManager.BusinessObject.dll.config">
+      <publishTime>03/17/2018 15:43:40</publishTime>
+    </File>
+    <File Include="bin/ExpenseManager.BusinessObject.pdb">
+      <publishTime>03/20/2018 09:25:14</publishTime>
+    </File>
+    <File Include="bin/ExpenseManager.Common.dll">
+      <publishTime>03/20/2018 09:25:13</publishTime>
+    </File>
+    <File Include="bin/ExpenseManager.Common.dll.config">
+      <publishTime>03/17/2018 18:37:36</publishTime>
+    </File>
+    <File Include="bin/ExpenseManager.Common.pdb">
+      <publishTime>03/20/2018 09:25:13</publishTime>
+    </File>
+    <File Include="bin/ExpenseManagerCloud.dll">
+      <publishTime>03/20/2018 09:26:14</publishTime>
+    </File>
+    <File Include="bin/ExpenseManagerCloud.pdb">
+      <publishTime>03/20/2018 09:26:14</publishTime>
+    </File>
+    <File Include="bin/JetTestEngine.APIObjects.dll">
+      <publishTime>06/26/2018 14:59:46</publishTime>
+    </File>
+    <File Include="bin/JetTestEngine.APIObjects.dll.config">
+      <publishTime>03/17/2018 18:35:18</publishTime>
+    </File>
+    <File Include="bin/JetTestEngine.APIObjects.pdb">
+      <publishTime>05/28/2018 11:47:16</publishTime>
+    </File>
+    <File Include="bin/JetTestEngine.Business.dll">
+      <publishTime>06/26/2018 14:59:47</publishTime>
+    </File>
+    <File Include="bin/JetTestEngine.Business.dll.config">
+      <publishTime>05/28/2018 11:43:20</publishTime>
+    </File>
+    <File Include="bin/JetTestEngine.Business.pdb">
+      <publishTime>05/28/2018 11:47:17</publishTime>
+    </File>
+    <File Include="bin/JetTestEngine.BusinessObject.dll">
+      <publishTime>06/26/2018 14:59:45</publishTime>
+    </File>
+    <File Include="bin/JetTestEngine.BusinessObject.dll.config">
+      <publishTime>03/17/2018 15:43:40</publishTime>
+    </File>
+    <File Include="bin/JetTestEngine.BusinessObject.pdb">
+      <publishTime>05/28/2018 11:47:16</publishTime>
+    </File>
+    <File Include="bin/JetTestEngine.Common.dll">
+      <publishTime>06/26/2018 14:59:45</publishTime>
+    </File>
+    <File Include="bin/JetTestEngine.Common.dll.config">
+      <publishTime>03/17/2018 18:37:36</publishTime>
+    </File>
+    <File Include="bin/JetTestEngine.Common.pdb">
+      <publishTime>05/28/2018 11:47:16</publishTime>
+    </File>
+    <File Include="bin/JetTestEngineCloud.dll">
+      <publishTime>05/28/2018 11:52:48</publishTime>
+    </File>
+    <File Include="bin/JetTestEngineCloud.pdb">
+      <publishTime>05/28/2018 11:52:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Logging.dll">
+      <publishTime>01/19/2018 20:26:59</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>01/19/2018 20:27:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>01/10/2018 18:43:02</publishTime>
+    </File>
+    <File Include="bin/Mono.Security.dll">
+      <publishTime>08/27/2014 04:50:44</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/19/2018 20:27:00</publishTime>
+    </File>
+    <File Include="bin/Npgsql.dll">
+      <publishTime>08/30/2014 09:34:30</publishTime>
+    </File>
+    <File Include="bin/Npgsql.EntityFramework.dll">
+      <publishTime>08/30/2014 09:34:32</publishTime>
+    </File>
+    <File Include="bin/Npgsql.EntityFrameworkLegacy.dll">
+      <publishTime>08/30/2014 09:34:32</publishTime>
+    </File>
+    <File Include="bin/PlugPortal.Cloud.dll">
+      <publishTime>03/05/2018 12:50:18</publishTime>
+    </File>
+    <File Include="bin/PlugPortal.Cloud.dll.config">
+      <publishTime>02/08/2018 20:18:14</publishTime>
+    </File>
+    <File Include="bin/PlugPortal.Cloud.pdb">
+      <publishTime>03/05/2018 04:45:47</publishTime>
+    </File>
+    <File Include="bin/PlugPortalManager.dll">
+      <publishTime>03/05/2018 12:50:06</publishTime>
+    </File>
+    <File Include="bin/PlugPortalManager.dll.config">
+      <publishTime>02/08/2018 20:09:26</publishTime>
+    </File>
+    <File Include="bin/PlugPortalManager.pdb">
+      <publishTime>03/05/2018 04:53:37</publishTime>
+    </File>
+    <File Include="bin/ProjectXpert.APIObject.dll">
+      <publishTime>02/23/2018 08:05:18</publishTime>
+    </File>
+    <File Include="bin/ProjectXpert.APIObject.pdb">
+      <publishTime>02/23/2018 08:05:18</publishTime>
+    </File>
+    <File Include="bin/ProjectXpert.Business.dll">
+      <publishTime>02/23/2018 08:05:20</publishTime>
+    </File>
+    <File Include="bin/ProjectXpert.Business.dll.config">
+      <publishTime>02/22/2018 20:25:58</publishTime>
+    </File>
+    <File Include="bin/ProjectXpert.Business.pdb">
+      <publishTime>02/23/2018 08:05:20</publishTime>
+    </File>
+    <File Include="bin/ProjectXpert.BusinessObject.dll">
+      <publishTime>02/23/2018 08:05:17</publishTime>
+    </File>
+    <File Include="bin/ProjectXpert.BusinessObject.dll.config">
+      <publishTime>02/10/2018 19:51:44</publishTime>
+    </File>
+    <File Include="bin/ProjectXpert.BusinessObject.pdb">
+      <publishTime>02/23/2018 08:05:17</publishTime>
+    </File>
+    <File Include="bin/ProjectXpert.Common.dll">
+      <publishTime>02/23/2018 08:05:16</publishTime>
+    </File>
+    <File Include="bin/ProjectXpert.Common.dll.config">
+      <publishTime>02/10/2018 20:36:09</publishTime>
+    </File>
+    <File Include="bin/ProjectXpert.Common.pdb">
+      <publishTime>02/23/2018 08:05:16</publishTime>
+    </File>
+    <File Include="bin/ProjectXpertCloud.dll">
+      <publishTime>02/23/2018 12:09:32</publishTime>
+    </File>
+    <File Include="bin/ProjectXpertCloud.pdb">
+      <publishTime>02/23/2018 12:09:32</publishTime>
+    </File>
+    <File Include="bin/System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>01/19/2018 20:27:00</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/10/2018 18:43:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/10/2018 18:43:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/10/2018 18:43:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/10/2018 18:43:03</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/10/2018 18:43:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>01/10/2018 18:43:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/10/2018 18:43:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/10/2018 18:43:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/10/2018 18:43:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>01/10/2018 18:43:01</publishTime>
+    </File>
+    <File Include="bin/VPlus.APIObj.dll">
+      <publishTime>03/04/2018 13:57:29</publishTime>
+    </File>
+    <File Include="bin/VPlus.APIObj.dll.config">
+      <publishTime>03/01/2018 11:27:00</publishTime>
+    </File>
+    <File Include="bin/VPlus.APIObj.pdb">
+      <publishTime>03/04/2018 13:57:29</publishTime>
+    </File>
+    <File Include="bin/VPlus.Business.dll">
+      <publishTime>03/04/2018 13:57:30</publishTime>
+    </File>
+    <File Include="bin/VPlus.Business.dll.config">
+      <publishTime>02/28/2018 21:40:01</publishTime>
+    </File>
+    <File Include="bin/VPlus.Business.pdb">
+      <publishTime>03/04/2018 13:57:30</publishTime>
+    </File>
+    <File Include="bin/VPlus.BusinessObject.dll">
+      <publishTime>03/04/2018 13:57:29</publishTime>
+    </File>
+    <File Include="bin/VPlus.BusinessObject.dll.config">
+      <publishTime>02/27/2018 19:23:05</publishTime>
+    </File>
+    <File Include="bin/VPlus.BusinessObject.pdb">
+      <publishTime>03/04/2018 13:57:29</publishTime>
+    </File>
+    <File Include="bin/VPlus.Common.dll">
+      <publishTime>03/04/2018 13:57:29</publishTime>
+    </File>
+    <File Include="bin/VPlus.Common.pdb">
+      <publishTime>03/04/2018 13:57:29</publishTime>
+    </File>
+    <File Include="bin/VPlusCRMCloud.dll">
+      <publishTime>03/05/2018 08:47:20</publishTime>
+    </File>
+    <File Include="bin/VPlusCRMCloud.pdb">
+      <publishTime>03/05/2018 08:47:20</publishTime>
+    </File>
+    <File Include="bin/VPlusSalesManager.APIObjects.dll">
+      <publishTime>07/02/2018 12:51:10</publishTime>
+    </File>
+    <File Include="bin/VPlusSalesManager.APIObjects.dll.config">
+      <publishTime>06/28/2018 18:33:26</publishTime>
+    </File>
+    <File Include="bin/VPlusSalesManager.APIObjects.pdb">
+      <publishTime>07/02/2018 12:51:10</publishTime>
+    </File>
+    <File Include="bin/VPlusSalesManager.Business.dll">
+      <publishTime>07/02/2018 12:51:10</publishTime>
+    </File>
+    <File Include="bin/VPlusSalesManager.Business.dll.config">
+      <publishTime>06/28/2018 18:36:29</publishTime>
+    </File>
+    <File Include="bin/VPlusSalesManager.Business.pdb">
+      <publishTime>07/02/2018 12:51:10</publishTime>
+    </File>
+    <File Include="bin/VPlusSalesManager.BusinessObject.dll">
+      <publishTime>07/02/2018 12:51:09</publishTime>
+    </File>
+    <File Include="bin/VPlusSalesManager.BusinessObject.dll.config">
+      <publishTime>06/28/2018 18:33:25</publishTime>
+    </File>
+    <File Include="bin/VPlusSalesManager.BusinessObject.pdb">
+      <publishTime>07/02/2018 12:51:09</publishTime>
+    </File>
+    <File Include="bin/VPlusSalesManager.Common.dll">
+      <publishTime>07/02/2018 12:51:09</publishTime>
+    </File>
+    <File Include="bin/VPlusSalesManager.Common.dll.config">
+      <publishTime>06/28/2018 18:33:24</publishTime>
+    </File>
+    <File Include="bin/VPlusSalesManager.Common.pdb">
+      <publishTime>07/02/2018 12:51:09</publishTime>
+    </File>
+    <File Include="bin/VPlusSalesManagerCloud.dll">
+      <publishTime>07/02/2018 12:58:10</publishTime>
+    </File>
+    <File Include="bin/VPlusSalesManagerCloud.pdb">
+      <publishTime>07/02/2018 12:58:10</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>01/10/2018 18:43:06</publishTime>
+    </File>
+    <File Include="bin/XPLUG.WEBTOOLS.dll">
+      <publishTime>08/08/2017 21:03:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>01/10/2018 18:42:55</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>01/10/2018 18:42:55</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>01/10/2018 18:42:45</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>01/10/2018 18:42:45</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>01/10/2018 18:42:55</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>01/10/2018 18:42:55</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>01/10/2018 18:42:55</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>01/10/2018 18:42:55</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>07/02/2018 12:05:07</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>02/08/2018 20:13:57</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>01/10/2018 18:42:55</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>01/10/2018 18:42:54</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>01/10/2018 18:42:59</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>01/10/2018 18:42:59</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>01/10/2018 18:42:59</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>01/10/2018 18:43:13</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>01/10/2018 18:43:13</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>01/10/2018 18:43:13</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>01/10/2018 18:43:13</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>01/10/2018 18:43:06</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>01/10/2018 18:43:07</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>01/10/2018 18:43:07</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>01/10/2018 18:43:06</publishTime>
+    </File>
+    <File Include="Views/PortalMaster/Init.cshtml">
+      <publishTime>07/02/2018 12:24:01</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>01/10/2018 18:42:45</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>05/28/2018 12:13:26</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>07/02/2018 12:05:07</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>01/10/2018 18:42:45</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/02/2018 13:28:59</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

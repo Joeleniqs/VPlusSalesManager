@@ -1,0 +1,37 @@
+﻿<div style="height: 5px"></div>
+@{
+    var msg = ViewBag.ConfigMessage as string;
+}
+
+<div class="row">
+    @if (!string.IsNullOrEmpty(msg))
+    {
+        <div class="col-md-9 col-sm-12 col-xs-12">
+            <p><span style="color: red">@msg</span></p>
+        </div>
+    }
+    else
+    {
+        <div class="col-md-9 col-sm-12 col-xs-12">
+            <img src="@Url.Content("~/Content/Images/VPlusSalesManager.jpg")" />
+        </div>
+        <div class="col-md-3 col-sm-12 col-xs-12">
+            <h3>Project Features</h3>
+            <hr />
+            <ul>
+                <li><b>Card Type Configuration</b></li>
+                <br />
+                <li><b>Card Commission Management</b></li>
+                <br />
+                <li><b>Beneficiary Management</b></li>
+                <br />
+                <li><b>Card Requisition Management</b></li>
+                <br />
+                <li><b>Card Issuance Management</b></li>
+                <br />
+            </ul>
+        </div>
+    }
+
+</div>
+

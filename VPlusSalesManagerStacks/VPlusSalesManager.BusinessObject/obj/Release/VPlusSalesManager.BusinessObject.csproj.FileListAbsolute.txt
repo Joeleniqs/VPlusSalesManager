@@ -1,0 +1,15 @@
+D:\PROJECTS\WEB\MVC\NEW_LOCAL\VPlusSalesManager\VPlusSalesManagerStacks\VPlusSalesManager.BusinessObject\bin\Release\VPlusSalesManager.BusinessObject.dll.config
+D:\PROJECTS\WEB\MVC\NEW_LOCAL\VPlusSalesManager\VPlusSalesManagerStacks\VPlusSalesManager.BusinessObject\bin\Release\VPlusSalesManager.BusinessObject.dll
+D:\PROJECTS\WEB\MVC\NEW_LOCAL\VPlusSalesManager\VPlusSalesManagerStacks\VPlusSalesManager.BusinessObject\bin\Release\VPlusSalesManager.BusinessObject.pdb
+D:\PROJECTS\WEB\MVC\NEW_LOCAL\VPlusSalesManager\VPlusSalesManagerStacks\VPlusSalesManager.BusinessObject\bin\Release\EntityFramework.dll
+D:\PROJECTS\WEB\MVC\NEW_LOCAL\VPlusSalesManager\VPlusSalesManagerStacks\VPlusSalesManager.BusinessObject\bin\Release\EntityFramework.SqlServer.dll
+D:\PROJECTS\WEB\MVC\NEW_LOCAL\VPlusSalesManager\VPlusSalesManagerStacks\VPlusSalesManager.BusinessObject\bin\Release\VPlusSalesManager.Common.dll
+D:\PROJECTS\WEB\MVC\NEW_LOCAL\VPlusSalesManager\VPlusSalesManagerStacks\VPlusSalesManager.BusinessObject\bin\Release\XPLUG.WEBTOOLS.dll
+D:\PROJECTS\WEB\MVC\NEW_LOCAL\VPlusSalesManager\VPlusSalesManagerStacks\VPlusSalesManager.BusinessObject\bin\Release\VPlusSalesManager.Common.pdb
+D:\PROJECTS\WEB\MVC\NEW_LOCAL\VPlusSalesManager\VPlusSalesManagerStacks\VPlusSalesManager.BusinessObject\bin\Release\VPlusSalesManager.Common.dll.config
+D:\PROJECTS\WEB\MVC\NEW_LOCAL\VPlusSalesManager\VPlusSalesManagerStacks\VPlusSalesManager.BusinessObject\bin\Release\EntityFramework.xml
+D:\PROJECTS\WEB\MVC\NEW_LOCAL\VPlusSalesManager\VPlusSalesManagerStacks\VPlusSalesManager.BusinessObject\bin\Release\EntityFramework.SqlServer.xml
+D:\PROJECTS\WEB\MVC\NEW_LOCAL\VPlusSalesManager\VPlusSalesManagerStacks\VPlusSalesManager.BusinessObject\obj\Release\VPlusSalesManager.BusinessObject.csprojResolveAssemblyReference.cache
+D:\PROJECTS\WEB\MVC\NEW_LOCAL\VPlusSalesManager\VPlusSalesManagerStacks\VPlusSalesManager.BusinessObject\obj\Release\VPlusSalesManager.BusinessObject.csproj.CoreCompileInputs.cache
+D:\PROJECTS\WEB\MVC\NEW_LOCAL\VPlusSalesManager\VPlusSalesManagerStacks\VPlusSalesManager.BusinessObject\obj\Release\VPlusSalesManager.BusinessObject.dll
+D:\PROJECTS\WEB\MVC\NEW_LOCAL\VPlusSalesManager\VPlusSalesManagerStacks\VPlusSalesManager.BusinessObject\obj\Release\VPlusSalesManager.BusinessObject.pdb
